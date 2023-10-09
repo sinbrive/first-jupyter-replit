@@ -1,6 +1,7 @@
 # Jupyter on Replit
 
 in replit : `test_jupyter`
+pass : `112233`
 
 Create Jupyter notebooks on Replit!
 
