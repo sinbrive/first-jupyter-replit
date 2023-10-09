@@ -1,5 +1,7 @@
 # Jupyter on Replit
 
+in replit : `test_jupyter`
+
 Create Jupyter notebooks on Replit!
 
 Instructions:
